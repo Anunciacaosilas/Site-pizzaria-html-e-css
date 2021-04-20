@@ -1,0 +1,75 @@
+body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-size: 17px;
+}
+
+
+
+#titulo {
+  background-color: white;
+  font-size: 40px;
+  
+
+}
+
+h1 {
+
+
+  font-size: 16px;
+}
+
+#ano {
+font-size:  15px;
+ color:white;
+}
+tr  {
+color:white;
+font-size: 17px;
+
+
+
+}
+
+th  {
+  color:white;
+  font-size: 17px ;
+}
+
+#banner {
+  background-image: url('../Exercícios/assets/css/imagens/bb.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 350px;
+}
+#carreira {
+ color:black;
+font-size: 17px;
+text-align:center;
+
+}
+
+h1 {
+ background-color: white;
+  text-align: center;
+  font-size: 17px;
+
+}
+#h1vida {
+  background-color: white;
+  text-align: center;
+}
+
+h2 {
+  background-color: white;
+  text-align: center;
+  font-size: 17px;
+}
+
+h3 {
+
+  background-color: white;
+  text-align: center;
+  font-size: 17px;
+}
